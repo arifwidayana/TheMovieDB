@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TheMovieDB</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec tortor dui. Aliquam erat volutpat. Morbi justo enim, lacinia quis blandit quis, pharetra eget libero. Fusce eu augue porttitor, efficitur sapien id, fringilla diam. Nulla sed porttitor purus. In id risus vel magna posuere condimentum. Duis sit amet mollis urna. Curabitur posuere, neque quis consectetur cursus, magna velit iaculis diam, quis scelerisque mi orci vel augue. Nunc ut magna dapibus, elementum nisl ut, egestas eros. Pellentesque nec euismod est, ut imperdiet tellus. Donec maximus eget nunc id gravida. Nulla porttitor mollis velit vel porttitor. Nullam id lacus risus. Aenean mattis tellus eget varius facilisis.</string>
+    <string name="title">Title</string>
+    <string name="_1_1">1.1</string>
+    <string name="retry">Retry</string>
+    <string name="genre">Genre :</string>
+    <string name="rating">Rating :</string>
+    <string name="release_date">Release Date :</string>
+    <string name="trailer">Trailer</string>
+    <string name="overview">Overview</string>
+    <string name="review">Review</string>
+    <string name="network_error">Network unstable or request timeout!</string>
+    <string name="collection">Collection</string>
+    <string name="home">Home</string>
+
+</resources>
